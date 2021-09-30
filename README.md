@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ignaciodls
-- 👀 I’m interested in Programming, Mathemaics, Videogames
+- 👀 I’m interested in Programming, Mathematics, Videogames
 - 🌱 I’m currently learning Jest & Redis
 - 📫 How to reach me --> www.linkedin.com/in/ijdlsp
 
