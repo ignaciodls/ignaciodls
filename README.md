@@ -4,7 +4,7 @@
 - 📫 How to reach me --> www.linkedin.com/in/ijdlsp
 
 - 🧠 Knowledge => VSCode, Javascript, Node-Express, React,
--            MongoDB-Mongoose, Python Django, DRF, SQL, HTML, CSS
+            MongoDB-Mongoose, Python Django, DRF, SQL, HTML, CSS
 
 <!---
 ignaciodls/ignaciodls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
