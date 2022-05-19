@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ignaciodls
 - 👀 I’m interested in Programming, Mathematics, Videogames
-- 🌱 I’m currently learning Jest & Redis
 - 📫 How to reach me => www.linkedin.com/in/ijdlsp
 
 - 🧠 Knowledge => VSCode, Javascript, Node-Express, React, Redux, MongoDB-Mongoose, Python, Django, DRF, SQL, HTML, CSS
